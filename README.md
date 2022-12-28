@@ -1,11 +1,10 @@
-## GitHub Status
+## GitHub Status👨‍💻
 <div align="center">
   <a href="https://github.com/yellowisk">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yellowisk&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowisk&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
-
-##Languages and Tools
+## Languages and Tools🖥
 <div style="display: inline_block" align="center">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img height="37.5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
@@ -15,12 +14,7 @@
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
-##
-  
+## Social Media🌐
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/yellowisk/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-  
-##
-
-![Snake animation](https://github.com/yellowisk/yellowisk/blob/output/github-contribution-grid-snake.svg)
