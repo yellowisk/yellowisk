@@ -1,8 +1,8 @@
 ## GitHub Status
 <div align="center">
   <a href="https://github.com/yellowisk">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yellowisk&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowisk&layout=compact&langs_count=7&theme=yeblu"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yellowisk&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowisk&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 
 ##
