@@ -1,23 +1,17 @@
 ## GitHub Status👨‍💻
-<div align="center">
-  <a href="https://github.com/yellowisk">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yellowisk&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowisk&layout=compact&langs_count=7&theme=yeblu"/>
-    
-![Snake animation](https://github.com/yellowisk/yellowisk/blob/output/github-contribution-grid-snake.svg)  
-    
-</div>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellowisk&theme=yeblu) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yellowisk&theme=yeblu&utcOffset=8) 
+| :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yellowisk&theme=yeblu) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yellowisk&theme=yeblu) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yellowisk&theme=yeblu) 
+| :-: | :-: | :-: |
+
+![](./profile-3d-contrib/profile-night-view.svg)
   
-## Languages and Tools🖥
+## Tools🖥
 <div style="display: inline_block" align="center">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img height="52.5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-    <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  
 </div>
 
 ## Contact Channels🌐
