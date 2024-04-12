@@ -7,11 +7,6 @@
 
 
 
-## Contribution Graph📊
-![svg](./profile-3d-contrib/profile-night-view.svg)
-
-
-
 ## Skills🖥
 <div style="display: inline_block">
   <img height="82" width="82" src="https://www.ivankrizsan.se/wp-content/uploads/2019/12/spring_webflux_logo.png" />
@@ -29,3 +24,6 @@
   <a href="https://www.linkedin.com/in/o-heitor-almeida/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto: oheitordealmeida@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+## Contribution Graph📊
+![svg](./profile-3d-contrib/profile-night-view.svg)
