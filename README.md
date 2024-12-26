@@ -1,5 +1,5 @@
 ## 🖥 Skills
-<img src="https://skillicons.dev/icons?i=java,py,ts,spring,angular,nextjs,postgres,firebase,docker,postman&theme=dark&perline=10" width="650" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=java,py,ts,c,spring,angular,nextjs,postgres,firebase,docker,postman&theme=dark&perline=10" width="650" alt="My Skills">
 
 ## 👨‍💻 GitHub Status
 
