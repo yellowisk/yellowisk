@@ -3,11 +3,8 @@
 
 ## 👨‍💻 GitHub Status
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellowisk&theme=yeblu) 
+| ![](./profile-3d-contrib/profile-night-rainbow.svg)
 | :-: |
-  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yellowisk&theme=yeblu) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yellowisk&theme=yeblu)
-| :-: | :-: |
 
 <hr>
 
